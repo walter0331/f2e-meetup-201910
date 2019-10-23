@@ -19,4 +19,7 @@ $ yarn start
 $ yarn generate
 ```
 
+## Unused Tailwind CSS classes are remove by PurgeCSS
+https://github.com/nuxt-community/nuxt-tailwindcss
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
